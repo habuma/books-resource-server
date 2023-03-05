@@ -23,7 +23,7 @@ How to use
 % ./mvnw spring-boot:run
 ~~~
 
- - Make requests to the GET endpoints. Using (HTTPie)[https://httpie.io/] :
+ - Make requests to the GET endpoints. Using [HTTPie](https://httpie.io/) :
 
 ~~~
 % http :8081/books
